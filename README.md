@@ -1,0 +1,1 @@
+Use command `docker compose up` to start the application. The application will be available at `http://localhost:3000/`.
